@@ -12,6 +12,10 @@
 
   <body>
 
+    <links>
+      <item name="Dojo" href="../index.html"/>
+    </links>
+
     <menu name="FizzBuzz">
       <item name="Task" href="index.html"/>
     </menu>
