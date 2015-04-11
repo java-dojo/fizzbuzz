@@ -1,0 +1,39 @@
+# Task
+
+Your task is to implement the method `fizzbuzz` in the class `FizzBuzzImpl`.
+
+# Specification
+
+The method `fizzbuzz` returns the value of the given `value` as `String`.
+
+If the `value` is a multiple of `3` then the method returns the `String`
+`"Fizz"`.
+
+If the `value` is a multiple of `5` then the method returns the `String`
+`"Buzz"`.
+
+# Support
+
+To support you with implementing the method there are unit tests in
+`FizzBuzzImplTest`. The unit tests are disabled at the start. To use them you
+have to enable them.
+
+# Further Challenges
+
+If you solved this exercise already and want a new challenge you can solve this
+exercise with one of the following constraints:
+
+* Implement the method `fizzbuzz` without using `if`.
+
+* Rewrite the method `runFizzBuzz` in the class `FizzBuzzImpl` to use no loop
+  (neither `for` not `while`).
+
+# Development Requirements
+
+To perform this exercise you need a JDK 8 and Maven 3.3.x.
+
+# References
+
+* [Rosetta Code][rcfb]
+
+[rcfb]: http://rosettacode.org/wiki/FizzBuzz "Rosetta Code - FizzBuzz"
