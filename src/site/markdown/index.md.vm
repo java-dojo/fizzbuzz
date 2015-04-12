@@ -24,7 +24,6 @@ If you solved this exercise already and want a new challenge you can solve this
 exercise with one of the following constraints:
 
 * Implement the method `fizzbuzz` without using `if`.
-
 * Rewrite the method `runFizzBuzz` in the class `FizzBuzzImpl` to use no loop
   (neither `for` not `while`).
 
